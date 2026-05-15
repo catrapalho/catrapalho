@@ -23,5 +23,4 @@ I am the founder of CARICATHA, my own custom cake design brand.
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/catarina-caramalho/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cadcaramalho@gmail.com) 
 
-
-![Snake animation](https://raw.githubusercontent.com/catrapalho/catrapalho/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/catrapalho/catrapalho/dist/github-contribution-grid-snake.svg)
