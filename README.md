@@ -6,7 +6,7 @@ I'm Catarina Caramalho, a M.Sc. student in Control, Robotics, and AI at Institut
 
 **Thesis:** Developing autonomous robotic manipulation using Deep Reinforcement Learning (DRL) on a humanoid hand.
 
-**UAVs:** Contributing to the development of autonomous aerial systems with ATLAS (Aerótec).
+**UAVs:** Contributing to the development of autonomous aerial systems within ATLAS (Aerótec).
 
 ⚡ ***Fun Fact***
 
